@@ -5,12 +5,16 @@ Atividade realizada dentro de sala de aula do curso Técnico em Desenvolvimento 
 ## Papar Information
 - Title:  `Site - Guia das Lixeiras Ecológicas`
 - Author:  `Davyd Cristiano`
-- Full-preprint: <img src="https://user-images.githubusercontent.com/53920878/198515892-e71d310a-7f60-453b-8ef8-7a31e2ab82df.png">
+- Full-preprint: <img src="https://user-images.githubusercontent.com/53920878/198386662-5f3a2f54-2715-4844-a108-3c1523be8a53.png">
 
 ## Linguagens
 - HTML5
 - CSS3
 - Bootstrap 4.0 - Framework Front-End
+
+## Qrcode para acessar o projeto
+<img src="https://user-images.githubusercontent.com/53920878/198720655-2b8aea89-e44b-4902-97ff-74a448c1fa9a.png" width="30%">
+
 
 ## Directory Hierarchy
 ```
