@@ -9,9 +9,7 @@ body, html {
     font-size: 1em;
     width: 100%;
     padding: 0;
-    background: #a8c0ff;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
 
 .logo img{
@@ -33,17 +31,22 @@ body, html {
 .title {
     color: aliceblue;
     text-align: center;
-    margin-top: 10px;
+    margin-top: -10px;
     letter-spacing: 3px;
     font-size: 1.9em;
-    margin-bottom: 20px;
 }
 
 .p {
     color: aliceblue;
     text-align: center;
     font-size:  1.0em;
-    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.info {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .container-card {
@@ -56,18 +59,20 @@ body, html {
 }
 
 .card {
-    width: 100%;
     color: aliceblue;
     background: rgba(255, 255, 255, 0.18);
     background-color: rgba(255, 255, 255, 0.043);
-    padding: 50px;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    padding: 14px 80px 18px 36px;
+    cursor: pointer;
 }
 
 .card img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 30%;
+    max-width: 100vh;
     margin-top: 10px;
 }
 
@@ -75,11 +80,13 @@ body, html {
     display: block;
     font-size: 1.2rem;
     position: absolute;
-    height: 0;
+    margin-left: auto;
+    margin-right: auto;
     top: 0;
+    height: 0;
     opacity: 0;
     padding: 18px 8%;
-    background-color: #432ea1;
+    background-color: #000000c7;
     transition: 0.8s ease;
 }
 
