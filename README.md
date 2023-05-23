@@ -9,7 +9,7 @@ Atividade realizada dentro de sala de aula do curso Técnico em Desenvolvimento 
 - Author:  `Davyd Cristiano`
 - Vlibras: `Acessibility VLibras Integrated`
 - Full-preprint:
-- <img src="https://github.com/davydcristiano/site-guia-das-lixeiras-ecologicas/assets/53920878/24f5c311-2f97-4fd8-b791-352361d7adae" width="80%">
+- <img src="https://github.com/davydcristiano/site-guia-das-lixeiras-ecologicas/assets/53920878/24f5c311-2f97-4fd8-b791-352361d7adae" width="100%">
 
 ## Linguagens
 <br>
