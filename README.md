@@ -7,8 +7,9 @@ Atividade realizada dentro de sala de aula do curso Técnico em Desenvolvimento 
 
 - Title:  `Site - Guia das Lixeiras Ecológicas`
 - Author:  `Davyd Cristiano`
+- Vlibras: `Acessibility VLibras Integrated`
 - Full-preprint:
-- <img src="https://user-images.githubusercontent.com/53920878/199913019-a5fdd7ff-388f-4f43-b076-0cb38aabe141.png" width="100%">
+- <img src="https://github.com/davydcristiano/site-guia-das-lixeiras-ecologicas/assets/53920878/24f5c311-2f97-4fd8-b791-352361d7adae" width="80%">
 
 ## Linguagens
 <br>
